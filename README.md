@@ -34,11 +34,11 @@ Step by step explanation of how to get a dev environment running.
 
 ### Screenshots
 
-<img src="./screenshots/screen_1.jpg" alt="Screenshot 1" width="600px" height="auto">
-<img src="./screenshots/screen_2.jpg" alt="Screenshot 2" width="600px" height="auto">
-<img src="./screenshots/screen_3.jpg" alt="Screenshot 3" width="600px" height="auto">
-<img src="./screenshots/screen_4.jpg" alt="Screenshot 4" width="600px" height="auto">
-<img src="./screenshots/screen_5.jpg" alt="Screenshot 5" width="600px" height="auto">
+<img src="./screenshots/screen_1.png" alt="Screenshot 1" width="500px" height="auto">
+<img src="./screenshots/screen_2.png" alt="Screenshot 2" width="500px" height="auto">
+<img src="./screenshots/screen_3.png" alt="Screenshot 3" width="500px" height="auto">
+<img src="./screenshots/screen_4.png" alt="Screenshot 4" width="500px" height="auto">
+<img src="./screenshots/screen_5.png" alt="Screenshot 5" width="500px" height="auto">
 
 ## Testing
 
